@@ -12,15 +12,15 @@ Clean UI ✨ | Conversion-focused 🚀 | Easy to customize 🎯
 
 ## 🚀 Live Demo
 
-👉 [**View Live Demo**](https://mahesh2-lab.github.io/LearNora/) *(Coming Soon)*
+👉 [**View Live Demo**](https://mahesh2-lab.github.io/LearNora/) 
 
 ---
 
 ## 📸 Screenshots
 
-<img src="https://www.site-shot.com/JcBlPCgsEfCJxAJCrBEAAw" width="100%">
-<img src="https://github.com/user-attachments/assets/1bdebae8-93d3-44c6-9790-e68bd6b1eeb8" width="100%">
-<img src="[screenshots/testimonials.png](https://github.com/user-attachments/assets/533273e3-c9fb-4d8b-9b03-79fc89bed039)" width="100%">
+<img src="./images/screenshot/image.png" width="100%">
+<img src="./images/screenshot/image2.png" width="100%">
+<img src="./images/screenshot/imag1.png" width="100%">
 
 
 ---
